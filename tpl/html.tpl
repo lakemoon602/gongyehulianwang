@@ -14,7 +14,7 @@
 
   <div>
    <br />
-   <h2><a href="https://exp-blog.com" target="_blank">眈眈探求</a> | <a href="https://github.com/lyy289065406/threat-broadcast">威胁情报播报</a></h2>
+   <h2><a href="#" target="_blank">工业互联网安全漏洞预警分析系统</a></h2>
    <br />
 
 %(table)s
